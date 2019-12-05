@@ -1,2 +1,2 @@
 # maniz-initial
-Manish's github account
+Manish's github account for tutorial purpose
