@@ -1,0 +1,1 @@
+This is sample text to be committed in git repository!
